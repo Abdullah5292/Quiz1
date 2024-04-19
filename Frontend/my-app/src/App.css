@@ -1,0 +1,19 @@
+.mera-dabba {
+  display: flex;
+  width: 100%;
+  height: 100%;
+  justify-content: center;
+  align-items: center;
+  background-color: #f0f0f0;
+  /* Light gray background */
+  border-radius: 10px;
+  /* Rounded corners */
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  /* Subtle shadow */
+  padding: 20px;
+  /* Add some padding inside the box */
+  font-family: Arial, sans-serif;
+  /* Choose a suitable font */
+  color: #333;
+  /* Dark text color */
+}
